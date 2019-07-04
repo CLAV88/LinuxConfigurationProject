@@ -678,4 +678,12 @@ You will need Git to install the configuration for the VM. If you'd like to lear
 * zerofree/bionic,now 1.0.4-1 amd64 [installed]
 * zlib1g/bionic,now 1:1.2.11.dfsg-0ubuntu2 amd64 [installed]
 
+## Additional References
 
+References:
+
+[UFW docs](https://help.ubuntu.com/community/UFW)
+[How to setup PostgresQL](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-16-04)
+[Virtual Environments](https://modwsgi.readthedocs.io/en/develop/user-guides/virtual-environments.html)
+[Flask uswgi and nginx](https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-uwsgi-and-nginx-on-ubuntu-16-04)
+[Flask app - deploy a flask app](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps)
